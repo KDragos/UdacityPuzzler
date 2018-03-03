@@ -12,3 +12,4 @@ You can see a working video of this project here: https://youtu.be/Gh80zekuXQk
 5. Added a GvrPointerPhysicsRaycaster to the Main Camera.
 6. Switch the platform in the build settings to build to Android instead of PC.
 7. (Optional/For aesthetics only) Set the position of GvrEditorEmulator object to be at 0, 1.7, 0. 
+8. Created a Builds folder inside of Assets to save the apk file.
